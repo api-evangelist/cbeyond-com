@@ -28,6 +28,10 @@ modified: '2026-07-18'
 tags:
 - Company
 - Telecommunications
+- Managed Service
+tags_raw:
+- Company
+- Telecommunications
 - Managed Services
 common:
 - type: DomainSecurity
